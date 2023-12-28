@@ -2,7 +2,7 @@
 Name=Lunar Client
 Exec=env DESKTOPINTEGRATION=false /usr/bin/lunarclient --no-sandbox %U
 Terminal=false
-Icon=launcher
+Icon=lunarclient
 StartupWMClass=Lunar Client
 X-AppImage-Version=REPLACE_VERSION
 Comment=PvP modpack for all modern versions of Minecraft
